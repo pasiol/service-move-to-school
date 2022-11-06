@@ -16,8 +16,7 @@ Kääntäminen
     make compile
 
 ---
-    HOST=palvelimen_osoite PORT=NNNN ./bin/service-get-applicants
-
+    HOST=palvelimen_osoite PORT=NNNN ./bin/service-move-to-school
 ## Primus-tuontimääritykset
 
 main.go
